@@ -17,7 +17,7 @@ import streamlit as st
 import plotly.express as px
 
 # Remplacez "chemin_du_fichier/ds_salaries.csv" par le chemin réel de votre fichier CSV
-df = pd.read_csv(r"projet_notebook2/archive/ds_salaries.csv")
+df = pd.read_csv(r"projet_notebook2\archive\ds_salaries.csv")
 
 
 ### 2. Exploration visuelle des données
